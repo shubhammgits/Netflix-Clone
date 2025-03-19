@@ -1,2 +1,2 @@
 # Netflix Clone <br>
-(not responsive though hihi)
+(not responsive and completely cloned though hihi)
